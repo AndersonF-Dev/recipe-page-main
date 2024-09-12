@@ -1,0 +1,13 @@
+@media (max-width: 700px) {
+    .recipe-conteiner {
+        max-width: 320px;
+    }
+
+    img {
+        max-width: 320px;
+    }
+    h1 {
+        font-size: 22px;
+    }
+    
+}
